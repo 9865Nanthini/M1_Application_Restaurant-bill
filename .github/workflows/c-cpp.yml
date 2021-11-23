@@ -18,6 +18,4 @@ jobs:
     - name: make
       run: make
     - name: make check
-      run: make 3_Test plan/RESTAURANT.h
-    - name: make distcheck
-      run: make distcheck
+      run: make 3_IMPLEMENTATION/ full code
